@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://matispatel.github.io/sitemap.xml
+Sitemap: https://matispatel.github.io/NewSiteTest/sitemap.xml
